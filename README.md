@@ -5,6 +5,11 @@ The **cubus-macrokeyboard** is a 4-key programmable macro pad created for the **
 
 ---
 
+![alt text](https://github.com/JannesWendelken/cubus-macrokeyboard/blob/main/IMG/cad.png)
+![alt text](https://github.com/JannesWendelken/cubus-macrokeyboard/blob/main/IMG/cad2.png)
+![alt text](https://github.com/JannesWendelken/cubus-macrokeyboard/blob/main/IMG/pcb.png)
+![alt text](https://github.com/JannesWendelken/cubus-macrokeyboard/blob/main/IMG/schematic.png)
+
 ## Features:
 - **4 Programmable Keys**  
   Customize each key for shortcuts, macros, or custom commands.
